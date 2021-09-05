@@ -1,6 +1,6 @@
 {
   "name": "log-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "hoilzz <qqwq9999@gmail.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
   "dependencies": {
     "commander": "^8.1.0",
     "lodash": "^4.17.21",
-    "log-core": "^1.0.0"
+    "log-core": "^1.0.1"
   }
 }
