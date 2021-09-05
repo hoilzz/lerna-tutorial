@@ -1,0 +1,26 @@
+{
+  "name": "log-core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "hoilzz <qqwq9999@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/log-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21"
+  }
+}
